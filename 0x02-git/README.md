@@ -1,0 +1,1 @@
+This project ia about learning how to use Git and Github.
